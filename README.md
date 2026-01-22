@@ -2,7 +2,7 @@
 
 ## AI-Powered Cattle & Buffalo Breed Recognition System
 
-**Live Demo:** https://your-domain.vercel.app
+**Live At:** https://pashudhanlens.vercel.app
 
 A progressive web application that uses Google Gemini 2.5 Flash AI to identify Indian cattle and buffalo breeds with 90%+ accuracy. Built for the Bharat Pashudhan App (BPA) to support field workers in accurate breed identification.
 
