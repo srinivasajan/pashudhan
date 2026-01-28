@@ -6,6 +6,8 @@
 
 A progressive web application that uses Google Gemini 2.5 Flash AI to identify Indian cattle and buffalo breeds with 90%+ accuracy. Built for the Bharat Pashudhan App (BPA) to support field workers in accurate breed identification.
 
+> 🚧 **Update:** Multiple newer and improved versions of this project have already been developed internally, but are not yet published.  
+> These updated versions will be released publicly soon. Stay tuned.
 
 ## Table of Contents
 
